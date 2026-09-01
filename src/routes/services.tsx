@@ -47,19 +47,19 @@ const assessments = [
       "Comprehensive diagnostic assessment for autism spectrum conditions, including clinical interview, standardised tools, observation and a detailed report with recommendations.",
   },
   {
-    icon: ZapIcon,
+    icon: Zap,
     title: "ADHD assessment",
     description:
       "Thorough assessment of attention, hyperactivity and executive functioning, with clear guidance on supports at home, school and in the community.",
   },
   {
-    icon: BookOpenIcon,
+    icon: BookOpen,
     title: "Dyslexia & learning assessment",
     description:
       "Cognitive and academic testing to understand reading, writing, spelling and learning strengths and challenges.",
   },
   {
-    icon: CalculatorIcon,
+    icon: Calculator,
     title: "Dyscalculia & numeracy assessment",
     description:
       "Targeted evaluation of mathematical thinking, number sense and working memory to inform practical learning strategies.",
