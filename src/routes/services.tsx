@@ -1,6 +1,8 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import {
+  BookOpen,
   Brain,
+  Calculator,
   Calendar,
   Car,
   ClipboardList,
@@ -10,6 +12,7 @@ import {
   Puzzle,
   School,
   Users,
+  Zap,
 } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
