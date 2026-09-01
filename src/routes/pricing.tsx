@@ -96,18 +96,6 @@ const assessmentPackages = [
   },
 ];
 
-const sessionFees = [
-  { service, fee, duration, note },
-];
-
-const travelFees = [
-  { distance, fee },
-];
-
-const additionalItems = [
-  { item, price },
-];
-
 export default function PricingPage() {
   return (
     <>
